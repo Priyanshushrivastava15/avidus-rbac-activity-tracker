@@ -900,7 +900,7 @@ body {
   color: var(--text-dark);
 }
 
-.filter-bar .glass-input {
+.filter-input-wrapper .glass-input {
   padding-left: 42px;
 }
 
